@@ -1,0 +1,404 @@
+{
+ "name": "Most Common Topics Associated with Beauty in the 1920s",
+ "children": [
+  {
+   "name": "Arizona",
+   "children": [
+    {
+     "name": "contest",
+     "children": [
+      {"name": "Arizona State Fair", "size": 3938, "url":"http://chroniclingamerica.loc.gov/lccn/sn87062055/1922-10-27/ed-1/seq-5/#date1=1922&sort=relevance&date2=1922&words=Beautiful+Beauty+BEAUTY&sequence=0&lccn=&index=0&state=Arizona&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=1"},
+      {"name": "Williams Girl Wins Fourth Place in Beauty Contest", "size": 3812, "url":"http://chroniclingamerica.loc.gov/lccn/sn82015761/1922-11-10/ed-1/seq-1/#date1=1922&sort=relevance&date2=1922&words=beauti+beauties+beautiful+beauty+Beauty+BEAUTY&sequence=0&lccn=&index=19&state=Arizona&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=1"}
+     ]
+    },
+    
+    {
+     "name": "for sale",
+     "children": [
+      {"name": "Announcing Our Greatest", "size": 7074, "url" : "http://chroniclingamerica.loc.gov/lccn/sn87062055/1922-01-20/ed-1/seq-6/#date1=1922&sort=relevance&date2=1922&words=beautiful&sequence=0&lccn=&index=17&state=Arizona&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=48"},
+      {"name": "Furniture For Sale", "size": 7074, "url" : "http://chroniclingamerica.loc.gov/lccn/sn84024827/1922-05-31/ed-1/seq-7/#date1=1922&sort=relevance&date2=1922&words=Beautiful+beauty&sequence=0&lccn=&index=12&state=Arizona&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=35"},
+        {"name": "Irresistible Eyes", "size": 7074, "url" : "http://chroniclingamerica.loc.gov/lccn/sn84024827/1922-09-26/ed-1/seq-6/#date1=1922&sort=relevance&date2=1922&words=Beautiful&sequence=0&lccn=&index=18&state=Arizona&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=78"},
+       {"name": "Keeping the Scalp Healthy", "size": 7074, "url" : "http://chroniclingamerica.loc.gov/lccn/sn84024827/1922-09-26/ed-1/seq-6/#date1=1922&sort=relevance&date2=1922&words=Beautiful&sequence=0&lccn=&index=18&state=Arizona&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=78"},
+        {"name": "Stop in and Get One of Our Yardsticks", "size": 7074, "url" : "http://chroniclingamerica.loc.gov/lccn/sn84024827/1922-12-10/ed-1/seq-11/#date1=1922&sort=relevance&date2=1922&words=beauty&sequence=0&lccn=&index=9&state=Arizona&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=15"} 
+         
+     ]
+    }
+   ]
+  },
+  {
+   "name": "California",
+    "children":[
+        { "name": "nature: human and worldly",
+     "children": [
+      {"name": "Beauty and Mystery", "size": 1983, "url": "http://chroniclingamerica.loc.gov/lccn/sn93062881/1922-04-15/ed-1/seq-3/#date1=1920&sort=relevance&rows=20&words=beautiful+beauty&searchType=basic&sequence=0&index=2&state=California&date2=1922&proxtext=beauty&y=0&x=0&dateFilterType=yearRange&page=1"},
+      {"name": "The Most Important Subject All Should Know", "size": 2047, "url":"http://chroniclingamerica.loc.gov/lccn/sn93062881/1922-04-15/ed-1/seq-3/#date1=1920&sort=relevance&rows=20&words=beautiful+beauty&searchType=basic&sequence=0&index=2&state=California&date2=1922&proxtext=beauty&y=0&x=0&dateFilterType=yearRange&page=1"},
+      {"name": "Summer", "size": 1375, "url":"http://chroniclingamerica.loc.gov/lccn/sn93062881/1922-09-23/ed-1/seq-6/#date1=1920&sort=relevance&rows=20&words=beautiful&searchType=basic&sequence=0&index=10&state=California&date2=1922&proxtext=beauty&y=0&x=0&dateFilterType=yearRange&page=3"},
+      {"name": "Sunday Morning Diversion", "size": 8746, "url":"http://chroniclingamerica.loc.gov/lccn/sn93062881/1922-04-22/ed-1/seq-1/#date1=1920&sort=relevance&rows=20&words=beautiful&searchType=basic&sequence=0&index=17&state=California&date2=1922&proxtext=beauty&y=0&x=0&dateFilterType=yearRange&page=3"},
+      {"name": "My beautiful native Michigan", "size": 2202, "url":"http://chroniclingamerica.loc.gov/lccn/sn93062881/1922-12-02/ed-1/seq-7/#date1=1920&sort=relevance&rows=20&words=beautiful&searchType=basic&sequence=0&index=2&state=California&date2=1922&proxtext=beauty&y=0&x=0&dateFilterType=yearRange&page=4"},
+      {"name": "We Must Make this Life Beautiful", "size": 1382, "url":"http://chroniclingamerica.loc.gov/lccn/sn93062881/1922-05-06/ed-1/seq-6/#date1=1920&sort=relevance&rows=20&words=beautiful&searchType=basic&sequence=0&index=12&state=California&date2=1922&proxtext=beauty&y=0&x=0&dateFilterType=yearRange&page=4"},
+      {"name": "Beautiful Weather", "size": 1629, "url":"http://chroniclingamerica.loc.gov/lccn/sn93062881/1922-05-13/ed-1/seq-8/#date1=1920&sort=relevance&rows=20&words=Beautiful&searchType=basic&sequence=0&index=13&state=California&date2=1922&proxtext=beauty&y=0&x=0&dateFilterType=yearRange&page=4"},
+      {"name": "Beautiful Building", "size": 1675, "url":"http://chroniclingamerica.loc.gov/lccn/sn93062881/1922-09-09/ed-1/seq-2/#date1=1920&sort=relevance&rows=20&words=beautiful&searchType=basic&sequence=0&index=6&state=California&date2=1922&proxtext=beauty&y=0&x=0&dateFilterType=yearRange&page=4"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Conneticut",
+   "children": [
+    {
+     "name": "beautiful women",
+     "children": [
+      {"name": "Swimming Beauties", "size": 721,"url":"http://chroniclingamerica.loc.gov/lccn/sn92051227/1922-06-23/ed-1/seq-17/#date1=1920&sort=&date2=1922&words=beauties+beautiful+beauty+BEAUTY&sequence=0&lccn=&index=1&state=Connecticut&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=3"},
+      {"name": "Prize Contest Winner", "size": 2220, "url":"http://chroniclingamerica.loc.gov/lccn/sn92051227/1922-11-17/ed-1/seq-17/#date1=1920&index=11&rows=20&words=beautiful+beauty+BEAUTY&searchType=basic&sequence=0&state=Connecticut&date2=1922&proxtext=beauty&y=0&x=0&dateFilterType=yearRange&page=1"}
+     ]
+    },
+     {
+     "name": "for sale",
+     "children": [
+      {"name": "Beautiful Property", "size": 721, "url":"http://chroniclingamerica.loc.gov/lccn/sn82014086/1922-11-30/ed-1/seq-8/#date1=1920&sort=&date2=1922&words=BEAUTIFUL&sequence=0&lccn=&index=4&state=Connecticut&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=600"},
+      {"name": "Women's Navy Suits", "size": 4294, "url":"http://chroniclingamerica.loc.gov/lccn/sn92051227/1920-05-18/ed-1/seq-2/#date1=1920&sort=&date2=1922&words=Beauties+beautiful+beauty&sequence=0&lccn=&index=0&state=Connecticut&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=5"},
+      {"name": "Bridal Lingerie", "size": 9800, "url":"http://chroniclingamerica.loc.gov/lccn/sn92051227/1920-05-14/ed-1/seq-2/#date1=1920&sort=&date2=1922&words=Beauties+beautiful+beauty+Beauty&sequence=0&lccn=&index=2&state=Connecticut&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=3"},
+      {"name": "Beautiful Rugs and Draperies", "size": 1314, "url":"http://chroniclingamerica.loc.gov/lccn/sn82014086/1920-03-26/ed-1/seq-11/#date1=1920&sort=&date2=1922&words=beautiful&sequence=0&lccn=&index=15&state=Connecticut&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=500"},
+      {"name": "Twink", "size": 2220, "url":"http://chroniclingamerica.loc.gov/lccn/sn82014086/1920-06-22/ed-1/seq-2/#date1=1920&sort=&date2=1922&words=beautiful&sequence=0&lccn=&index=18&state=Connecticut&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=300"},
+      {"name": "Piano Sale", "size": 2220, "url":"http://chroniclingamerica.loc.gov/lccn/sn82014086/1920-11-12/ed-1/seq-9/#date1=1920&sort=&date2=1922&words=Beautiful&sequence=0&lccn=&index=9&state=Connecticut&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=300"},
+      {"name": "Danderine", "size": 2220, "url":"http://chroniclingamerica.loc.gov/lccn/sn92051227/1920-03-02/ed-1/seq-7/#date1=1920&sort=&date2=1922&words=beauty&sequence=0&lccn=&index=14&state=Connecticut&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=200"}     
+     ]
+    }  
+   ]
+  },
+{
+   "name": "District of  Columbia",
+   "children": [
+    {
+     "name": "women on the screen",
+     "children": [
+      {"name": "At the Theatres", "size": 721,"url":"http://chroniclingamerica.loc.gov/lccn/sn84026749/1921-05-01/ed-1/seq-34/#date1=1920&sort=relevance&date2=1922&words=beautiful+Beauty&sequence=0&lccn=&index=13&state=District+of+Columbia&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=654"},
+      {"name": "Riveria Lure", "size": 4294, "url":"http://chroniclingamerica.loc.gov/lccn/sn84026749/1922-04-09/ed-1/seq-29/#date1=1920&sort=relevance&date2=1922&words=beautiful&sequence=0&lccn=&index=4&state=District+of+Columbia&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=1509"},
+      {"name": "Captivating Screen Plays", "size": 2220, "url":"http://chroniclingamerica.loc.gov/lccn/sn83045433/1922-01-29/ed-1/seq-22/#date1=1920&sort=relevance&date2=1922&words=beauty&sequence=0&lccn=&index=19&state=District+of+Columbia&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=800"}
+     ]
+    },
+     {
+     "name": "improving womens beauty",
+     "children": [
+      {"name": "Freckles", "size": 721, "url":"http://chroniclingamerica.loc.gov/lccn/sn84026749/1922-05-11/ed-1/seq-10/#date1=1920&sort=relevance&date2=1922&words=beautiful&sequence=0&lccn=&index=13&state=District+of+Columbia&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=1509"},
+      {"name": "No Excuses for Being Fat", "size": 9800, "url":"http://chroniclingamerica.loc.gov/lccn/sn84026749/1921-10-30/ed-1/seq-54/#date1=1920&sort=relevance&date2=1922&words=beauty&sequence=0&lccn=&index=9&state=District+of+Columbia&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=201"},
+      {"name": "No More Gray Hairs", "size": 1314, "url":"http://chroniclingamerica.loc.gov/lccn/sn84026749/1921-10-30/ed-1/seq-63/#date1=1920&sort=relevance&date2=1922&words=beauty&sequence=0&lccn=&index=10&state=District+of+Columbia&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=201"},
+      {"name": "Biggest and Smallest Waist", "size": 2220, "url":"http://chroniclingamerica.loc.gov/lccn/sn84026749/1920-10-24/ed-1/seq-33/#date1=1920&sort=relevance&date2=1922&words=beauty&sequence=0&lccn=&index=6&state=District+of+Columbia&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=201"}     
+     ]
+    },
+       {
+     "name": "for sale",
+     "children": [
+      {"name": "Spring Bags", "size": 721,"url":"http://chroniclingamerica.loc.gov/lccn/sn83045433/1922-03-01/ed-1/seq-16/#date1=1920&sort=relevance&date2=1922&words=beauty&sequence=0&lccn=&index=1&state=District+of+Columbia&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=800"},
+      {"name": "The Columbia Light Six", "size": 2220, "url":"http://chroniclingamerica.loc.gov/lccn/sn84026749/1922-05-21/ed-1/seq-17/#date1=1920&sort=relevance&date2=1922&words=beauty&sequence=0&lccn=&index=6&state=District+of+Columbia&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=500"}
+     ]
+    }
+   ]
+  },
+ {
+   "name": "Florida",
+   "children": [
+    {
+     "name": "women",
+     "children": [
+      {"name": "Beauty Queen", "size": 721,"url":"http://chroniclingamerica.loc.gov/lccn/sn95047324/1922-09-22/ed-1/seq-1/#date1=1920&sort=relevance&date2=1922&words=beauties+beautiful+beauty+Beauty&sequence=0&lccn=&index=6&state=Florida&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=3"},
+      {"name": "Ugliness is on the Increase", "size": 2220, "url":"http://chroniclingamerica.loc.gov/lccn/sn84027621/1922-07-08/ed-1/seq-3/#date1=1920&sort=relevance&date2=1922&words=beautiful+beauty&sequence=0&lccn=&index=7&state=Florida&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=3"},
+    {"name": "Legion Queen Diplomat ", "size": 2220, "url":"http://chroniclingamerica.loc.gov/lccn/sn84027621/1922-11-03/ed-1/seq-3/#date1=1920&sort=relevance&date2=1922&words=beautiful+beauty&sequence=0&lccn=&index=16&state=Florida&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=32"},
+    {"name": "A Beautiful Girl ", "size": 2220, "url":"http://chroniclingamerica.loc.gov/lccn/sn78001466/1922-11-24/ed-1/seq-7/#date1=1920&sort=relevance&date2=1922&words=beautiful+beauty&sequence=0&lccn=&index=3&state=Florida&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=31"}
+
+     ]
+    },
+     {
+     "name": "for sale",
+     "children": [
+      {"name": "Clearance Sale", "size": 721, "url":"http://chroniclingamerica.loc.gov/lccn/sn95047324/1920-06-17/ed-1/seq-3/#date1=1920&sort=relevance&date2=1922&words=beautiful&sequence=0&lccn=&index=18&state=Florida&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=88"},
+      {"name": "Grand Opening of Toyland", "size": 4294, "url":"http://chroniclingamerica.loc.gov/lccn/sn78001466/1922-11-23/ed-1/seq-4/#date1=1920&sort=relevance&date2=1922&words=beauti&sequence=0&lccn=&index=15&state=Florida&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=90"},
+      {"name": "High Grade Oxfords and Pumps", "size": 9800, "url":"http://chroniclingamerica.loc.gov/lccn/sn84027621/1921-06-18/ed-1/seq-4/#date1=1920&sort=relevance&date2=1922&words=beautiful&sequence=0&lccn=&index=5&state=Florida&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=132"},
+      {"name": "Hickenlooper's Shoes", "size": 1314, "url":"http://chroniclingamerica.loc.gov/lccn/sn78001466/1922-10-31/ed-1/seq-3/#date1=1920&sort=relevance&date2=1922&words=BEAUTIFUL&sequence=0&lccn=&index=12&state=Florida&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=123"},
+      {"name": "5 Piece Bedroom Set", "size": 2220, "url":"http://chroniclingamerica.loc.gov/lccn/sn78001466/1922-10-12/ed-1/seq-4/#date1=1920&sort=relevance&date2=1922&words=Beautiful&sequence=0&lccn=&index=17&state=Florida&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=90"},
+      {"name": "For Rent", "size": 2220, "url":"http://chroniclingamerica.loc.gov/lccn/sn84027621/1921-06-13/ed-1/seq-4/#date1=1920&sort=relevance&date2=1922&words=beautiful&sequence=0&lccn=&index=17&state=Florida&rows=20&ortext=&proxtext=beauty&year=&phrasetext=&andtext=&proxValue=&dateFilterType=yearRange&page=101"}
+     ]
+    }  
+   ]
+  },
+  {
+   "name": "physics",
+   "children": [
+    {"name": "DragForce", "size": 1082},
+    {"name": "GravityForce", "size": 1336},
+    {"name": "IForce", "size": 319},
+    {"name": "NBodyForce", "size": 10498},
+    {"name": "Particle", "size": 2822},
+    {"name": "Simulation", "size": 9983},
+    {"name": "Spring", "size": 2213},
+    {"name": "SpringForce", "size": 1681}
+   ]
+  },
+  {
+   "name": "query",
+   "children": [
+    {"name": "AggregateExpression", "size": 1616},
+    {"name": "And", "size": 1027},
+    {"name": "Arithmetic", "size": 3891},
+    {"name": "Average", "size": 891},
+    {"name": "BinaryExpression", "size": 2893},
+    {"name": "Comparison", "size": 5103},
+    {"name": "CompositeExpression", "size": 3677},
+    {"name": "Count", "size": 781},
+    {"name": "DateUtil", "size": 4141},
+    {"name": "Distinct", "size": 933},
+    {"name": "Expression", "size": 5130},
+    {"name": "ExpressionIterator", "size": 3617},
+    {"name": "Fn", "size": 3240},
+    {"name": "If", "size": 2732},
+    {"name": "IsA", "size": 2039},
+    {"name": "Literal", "size": 1214},
+    {"name": "Match", "size": 3748},
+    {"name": "Maximum", "size": 843},
+    {
+     "name": "methods",
+     "children": [
+      {"name": "add", "size": 593},
+      {"name": "and", "size": 330},
+      {"name": "average", "size": 287},
+      {"name": "count", "size": 277},
+      {"name": "distinct", "size": 292},
+      {"name": "div", "size": 595},
+      {"name": "eq", "size": 594},
+      {"name": "fn", "size": 460},
+      {"name": "gt", "size": 603},
+      {"name": "gte", "size": 625},
+      {"name": "iff", "size": 748},
+      {"name": "isa", "size": 461},
+      {"name": "lt", "size": 597},
+      {"name": "lte", "size": 619},
+      {"name": "max", "size": 283},
+      {"name": "min", "size": 283},
+      {"name": "mod", "size": 591},
+      {"name": "mul", "size": 603},
+      {"name": "neq", "size": 599},
+      {"name": "not", "size": 386},
+      {"name": "or", "size": 323},
+      {"name": "orderby", "size": 307},
+      {"name": "range", "size": 772},
+      {"name": "select", "size": 296},
+      {"name": "stddev", "size": 363},
+      {"name": "sub", "size": 600},
+      {"name": "sum", "size": 280},
+      {"name": "update", "size": 307},
+      {"name": "variance", "size": 335},
+      {"name": "where", "size": 299},
+      {"name": "xor", "size": 354},
+      {"name": "_", "size": 264}
+     ]
+    },
+    {"name": "Minimum", "size": 843},
+    {"name": "Not", "size": 1554},
+    {"name": "Or", "size": 970},
+    {"name": "Query", "size": 13896},
+    {"name": "Range", "size": 1594},
+    {"name": "StringUtil", "size": 4130},
+    {"name": "Sum", "size": 791},
+    {"name": "Variable", "size": 1124},
+    {"name": "Variance", "size": 1876},
+    {"name": "Xor", "size": 1101}
+   ]
+  },
+  {
+   "name": "scale",
+   "children": [
+    {"name": "IScaleMap", "size": 2105},
+    {"name": "LinearScale", "size": 1316},
+    {"name": "LogScale", "size": 3151},
+    {"name": "OrdinalScale", "size": 3770},
+    {"name": "QuantileScale", "size": 2435},
+    {"name": "QuantitativeScale", "size": 4839},
+    {"name": "RootScale", "size": 1756},
+    {"name": "Scale", "size": 4268},
+    {"name": "ScaleType", "size": 1821},
+    {"name": "TimeScale", "size": 5833}
+   ]
+  },
+  {
+   "name": "util",
+   "children": [
+    {"name": "Arrays", "size": 8258},
+    {"name": "Colors", "size": 10001},
+    {"name": "Dates", "size": 8217},
+    {"name": "Displays", "size": 12555},
+    {"name": "Filter", "size": 2324},
+    {"name": "Geometry", "size": 10993},
+    {
+     "name": "heap",
+     "children": [
+      {"name": "FibonacciHeap", "size": 9354},
+      {"name": "HeapNode", "size": 1233}
+     ]
+    },
+    {"name": "IEvaluable", "size": 335},
+    {"name": "IPredicate", "size": 383},
+    {"name": "IValueProxy", "size": 874},
+    {
+     "name": "math",
+     "children": [
+      {"name": "DenseMatrix", "size": 3165},
+      {"name": "IMatrix", "size": 2815},
+      {"name": "SparseMatrix", "size": 3366}
+     ]
+    },
+    {"name": "Maths", "size": 17705},
+    {"name": "Orientation", "size": 1486},
+    {
+     "name": "palette",
+     "children": [
+      {"name": "ColorPalette", "size": 6367},
+      {"name": "Palette", "size": 1229},
+      {"name": "ShapePalette", "size": 2059},
+      {"name": "SizePalette", "size": 2291}
+     ]
+    },
+    {"name": "Property", "size": 5559},
+    {"name": "Shapes", "size": 19118},
+    {"name": "Sort", "size": 6887},
+    {"name": "Stats", "size": 6557},
+    {"name": "Strings", "size": 22026}
+   ]
+  },
+  {
+   "name": "vis",
+   "children": [
+    {
+     "name": "axis",
+     "children": [
+      {"name": "Axes", "size": 1302},
+      {"name": "Axis", "size": 24593},
+      {"name": "AxisGridLine", "size": 652},
+      {"name": "AxisLabel", "size": 636},
+      {"name": "CartesianAxes", "size": 6703}
+     ]
+    },
+    {
+     "name": "controls",
+     "children": [
+      {"name": "AnchorControl", "size": 2138},
+      {"name": "ClickControl", "size": 3824},
+      {"name": "Control", "size": 1353},
+      {"name": "ControlList", "size": 4665},
+      {"name": "DragControl", "size": 2649},
+      {"name": "ExpandControl", "size": 2832},
+      {"name": "HoverControl", "size": 4896},
+      {"name": "IControl", "size": 763},
+      {"name": "PanZoomControl", "size": 5222},
+      {"name": "SelectionControl", "size": 7862},
+      {"name": "TooltipControl", "size": 8435}
+     ]
+    },
+    {
+     "name": "data",
+     "children": [
+      {"name": "Data", "size": 20544},
+      {"name": "DataList", "size": 19788},
+      {"name": "DataSprite", "size": 10349},
+      {"name": "EdgeSprite", "size": 3301},
+      {"name": "NodeSprite", "size": 19382},
+      {
+       "name": "render",
+       "children": [
+        {"name": "ArrowType", "size": 698},
+        {"name": "EdgeRenderer", "size": 5569},
+        {"name": "IRenderer", "size": 353},
+        {"name": "ShapeRenderer", "size": 2247}
+       ]
+      },
+      {"name": "ScaleBinding", "size": 11275},
+      {"name": "Tree", "size": 7147},
+      {"name": "TreeBuilder", "size": 9930}
+     ]
+    },
+    {
+     "name": "events",
+     "children": [
+      {"name": "DataEvent", "size": 2313},
+      {"name": "SelectionEvent", "size": 1880},
+      {"name": "TooltipEvent", "size": 1701},
+      {"name": "VisualizationEvent", "size": 1117}
+     ]
+    },
+    {
+     "name": "legend",
+     "children": [
+      {"name": "Legend", "size": 20859},
+      {"name": "LegendItem", "size": 4614},
+      {"name": "LegendRange", "size": 10530}
+     ]
+    },
+    {
+     "name": "operator",
+     "children": [
+      {
+       "name": "distortion",
+       "children": [
+        {"name": "BifocalDistortion", "size": 4461},
+        {"name": "Distortion", "size": 6314},
+        {"name": "FisheyeDistortion", "size": 3444}
+       ]
+      },
+      {
+       "name": "encoder",
+       "children": [
+        {"name": "ColorEncoder", "size": 3179},
+        {"name": "Encoder", "size": 4060},
+        {"name": "PropertyEncoder", "size": 4138},
+        {"name": "ShapeEncoder", "size": 1690},
+        {"name": "SizeEncoder", "size": 1830}
+       ]
+      },
+      {
+       "name": "filter",
+       "children": [
+        {"name": "FisheyeTreeFilter", "size": 5219},
+        {"name": "GraphDistanceFilter", "size": 3165},
+        {"name": "VisibilityFilter", "size": 3509}
+       ]
+      },
+      {"name": "IOperator", "size": 1286},
+      {
+       "name": "label",
+       "children": [
+        {"name": "Labeler", "size": 9956},
+        {"name": "RadialLabeler", "size": 3899},
+        {"name": "StackedAreaLabeler", "size": 3202}
+       ]
+      },
+      {
+       "name": "layout",
+       "children": [
+        {"name": "AxisLayout", "size": 6725},
+        {"name": "BundledEdgeRouter", "size": 3727},
+        {"name": "CircleLayout", "size": 9317},
+        {"name": "CirclePackingLayout", "size": 12003},
+        {"name": "DendrogramLayout", "size": 4853},
+        {"name": "ForceDirectedLayout", "size": 8411},
+        {"name": "IcicleTreeLayout", "size": 4864},
+        {"name": "IndentedTreeLayout", "size": 3174},
+        {"name": "Layout", "size": 7881},
+        {"name": "NodeLinkTreeLayout", "size": 12870},
+        {"name": "PieLayout", "size": 2728},
+        {"name": "RadialTreeLayout", "size": 12348},
+        {"name": "RandomLayout", "size": 870},
+        {"name": "StackedAreaLayout", "size": 9121},
+        {"name": "TreeMapLayout", "size": 9191}
+       ]
+      },
+      {"name": "Operator", "size": 2490},
+      {"name": "OperatorList", "size": 5248},
+      {"name": "OperatorSequence", "size": 4190},
+      {"name": "OperatorSwitch", "size": 2581},
+      {"name": "SortOperator", "size": 2023}
+     ]
+    },
+    {"name": "Visualization", "size": 16540}
+   ]
+  }
+ ]
+}
